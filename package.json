@@ -1,0 +1,22 @@
+{
+  "name": "ai-beer-recognition",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/prokopsimek/ai-beer-recognition",
+  "author": "Prokop Simek (@prokopsim)",
+  "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=11"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}

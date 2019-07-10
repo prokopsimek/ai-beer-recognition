@@ -1,0 +1,3 @@
+interface Asf {
+    name: string
+}
